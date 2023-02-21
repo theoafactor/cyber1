@@ -1,0 +1,12 @@
+# 'and' and 'or'
+# - and
+T and F = F
+F and T = F
+F and F = F
+T and T = T
+
+# - or
+T or F = T
+F or T = T
+F or F = F
+T or T = T
